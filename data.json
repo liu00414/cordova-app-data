@@ -1,0 +1,35 @@
+{"drinks":[
+  {"id":1, "name":"Coca-Cola", "type":"Soft Drink", "origin":"United States", "ingredients":[
+    "Carbonated water",
+    "Sugar",
+    "Caffeine",
+     "Phosphoric acid",
+    "Natural flavorings"
+      
+  ]},
+    {"id":2, "name":"Coca-Cola", "type":"Soft Drink", "origin":"United States", "ingredients":[
+    "Carbonated water",
+    "Sugar",
+    "Caffeine",
+     "Phosphoric acid",
+    "Natural flavorings"
+      
+  ]},
+    {"id":3, "name":"Coca-Cola", "type":"Soft Drink", "origin":"United States", "ingredients":[
+    "Carbonated water",
+    "Sugar",
+    "Caffeine",
+     "Phosphoric acid",
+    "Natural flavorings"
+      
+  ]},
+    {"id":4, "name":"Coca-Cola", "type":"Soft Drink", "origin":"United States", "ingredients":[
+    "Carbonated water",
+    "Sugar",
+    "Caffeine",
+     "Phosphoric acid",
+    "Natural flavorings"
+      
+  ]}
+
+]}
