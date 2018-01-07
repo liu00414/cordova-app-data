@@ -24,7 +24,7 @@
         },
         {
             "id": 3,
-            "name": "Vita Lemon Tea",
+            "name": "Lemon Tea",
             "type": "Flavored Tea",
             "origin": "Hong Kong",
             "ingredients": [
@@ -51,7 +51,7 @@
         },
         {
             "id": 6,
-            "name": "Teavana Shaken Berry Sangria Herbal Tea",
+            "name": "Sangria Herbal Tea",
             "type": "Sweet Tea",
             "origin": "United States",
             "ingredients": ["Ice","Apple juice","Sangria Syrup","Freeze-dried Blackberries","Freeze-dried Orange Slices"],
