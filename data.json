@@ -1,35 +1,88 @@
-{"drinks":[
-  {"id":1, "name":"Coca-Cola", "type":"Soft Drink", "origin":"United States", "ingredients":[
+{
+    "drinks": [
+        {
+            "id": 1,
+            "name": "Coca-Cola",
+            "type": "Soft Drink",
+            "origin": "United States",
+            "ingredients": [
     "Carbonated water",
     "Sugar",
     "Caffeine",
      "Phosphoric acid",
     "Natural flavorings"
-      
-  ],"website":"www.coca-colacompany.com"},
-    {"id":2, "name":"Coca-Cola", "type":"Soft Drink", "origin":"United States", "ingredients":[
-    "Carbonated water",
-    "Sugar",
-    "Caffeine",
-     "Phosphoric acid",
-    "Natural flavorings"
-      
-  ]},
-    {"id":3, "name":"Coca-Cola", "type":"Soft Drink", "origin":"United States", "ingredients":[
-    "Carbonated water",
-    "Sugar",
-    "Caffeine",
-     "Phosphoric acid",
-    "Natural flavorings"
-      
-  ]},
-    {"id":4, "name":"Coca-Cola", "type":"Soft Drink", "origin":"United States", "ingredients":[
-    "Carbonated water",
-    "Sugar",
-    "Caffeine",
-     "Phosphoric acid",
-    "Natural flavorings"
-      
-  ]}
 
-]}
+  ],
+            "website": "www.coca-colacompany.com"
+        },
+        {
+            "id": 2,
+            "name": "Milkis",
+            "type": "Soft Drink",
+            "origin": "Korea",
+            "ingredients": [
+    "Water", "White sugar", "Fructose", "Carbonated gas", "Citric acid", "Phosphoric"
+                "Acid", "Yogurt flavor"
+
+  ],
+            "website": "http://www.lottedrinks.com/products/milkis"
+        },
+        {
+            "id": 3,
+            "name": "Vita Lemon Tea",
+            "type": "Flavored Tea",
+            "origin": "Hong Kong",
+            "ingredients": [
+    "Water", "Sugar", "Tea", "Natural Flavors", "Citric Acid", "Lemon Juice Concentrate", "Ascorbic Acid", "Sodium Citrate, Ascorbyl Palmitate"
+
+  ],
+            "website": "vitasoy-usa.com/vita/#lemon-tea-250-ml"
+        },
+        {
+            "id": 4,
+            "name": "Bellini",
+            "type": "Cocktail",
+            "origin": "Italy",
+            "ingredients": [
+    "Soda",
+    "Peach",
+    "Rum",
+    "Prosecco",
+    "Ice"
+
+  ],
+            "website": "www.bellinicanella.com/?lang=en"
+        },
+        {
+            "id": 5,
+            "name": "Iced Capp",
+            "type": "Coffee",
+            "origin": "Canada",
+            "ingredients": [
+    "Signature base",
+    "Sugar",
+    "Cream",
+     "Milk",
+    "Frozen coffee"
+
+  ],
+            "website": "www.timhortons.com/ca/en/menu/iced-capp.php"
+        },
+        {
+            "id": 6,
+            "name": "Teavana Shaken Berry Sangria Herbal Tea",
+            "type": "Sweet Tea",
+            "origin": "United States",
+            "ingredients": [
+    "Ice",
+    "Apple juice",
+    "Sangria Syrup",
+     "Freeze-dried Blackberries",
+    "Freeze-dried Orange Slices"
+
+  ],
+            "website": "www.starbucks.com/menu/drinks/tea/berry-sangria-herbal-tea?foodZone=9999"
+        },
+        
+ ]
+}
