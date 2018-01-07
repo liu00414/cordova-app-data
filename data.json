@@ -6,11 +6,7 @@
             "type": "Soft Drink",
             "origin": "United States",
             "ingredients": [
-    "Carbonated water",
-    "Sugar",
-    "Caffeine",
-     "Phosphoric acid",
-    "Natural flavorings"
+    "Carbonated water","Sugar","Caffeine","Phosphoric acid","Natural flavorings"
 
   ],
             "website": "www.coca-colacompany.com"
@@ -42,14 +38,7 @@
             "name": "Bellini",
             "type": "Cocktail",
             "origin": "Italy",
-            "ingredients": [
-    "Soda",
-    "Peach",
-    "Rum",
-    "Prosecco",
-    "Ice"
-
-  ],
+            "ingredients": ["Soda","Peach","Rum","Prosecco","Ice"],
             "website": "www.bellinicanella.com/?lang=en"
         },
         {
@@ -57,14 +46,7 @@
             "name": "Iced Capp",
             "type": "Coffee",
             "origin": "Canada",
-            "ingredients": [
-    "Signature base",
-    "Sugar",
-    "Cream",
-     "Milk",
-    "Frozen coffee"
-
-  ],
+            "ingredients": ["Signature base","Sugar","Cream","Milk","Frozen coffee"],
             "website": "www.timhortons.com/ca/en/menu/iced-capp.php"
         },
         {
@@ -72,15 +54,8 @@
             "name": "Teavana Shaken Berry Sangria Herbal Tea",
             "type": "Sweet Tea",
             "origin": "United States",
-            "ingredients": [
-    "Ice",
-    "Apple juice",
-    "Sangria Syrup",
-     "Freeze-dried Blackberries",
-    "Freeze-dried Orange Slices"
-
-  ],
-            "website": "www.starbucks.com/menu/drinks/tea/berry-sangria-herbal-tea?foodZone=9999"
+            "ingredients": ["Ice","Apple juice","Sangria Syrup","Freeze-dried Blackberries","Freeze-dried Orange Slices"],
+            "website":"www.starbucks.com/menu/drinks/tea/berry-sangria-herbal-tea?foodZone=9999"
         }
         
  ]
