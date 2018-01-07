@@ -21,8 +21,7 @@
             "type": "Soft Drink",
             "origin": "Korea",
             "ingredients": [
-    "Water", "White sugar", "Fructose", "Carbonated gas", "Citric acid", "Phosphoric"
-                "Acid", "Yogurt flavor"
+    "Water", "White sugar", "Fructose", "Carbonated gas", "Citric acid", "Phosphoric","Acid", "Yogurt flavor"
 
   ],
             "website": "http://www.lottedrinks.com/products/milkis"
@@ -82,7 +81,7 @@
 
   ],
             "website": "www.starbucks.com/menu/drinks/tea/berry-sangria-herbal-tea?foodZone=9999"
-        },
+        }
         
  ]
 }
